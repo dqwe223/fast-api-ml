@@ -19,7 +19,7 @@ species_mapping = {0: "Setosa", 1: "Versicolour", 2: "Virginica"}
 
 @app.get('/')
 def home():
-    return {'text': 'Iris Flower Species Prediction'}
+    return {'text': 'Iris Flower Species Prediction aaaaaaa'}
 
 # Create JSON output
 @app.post("/predict")
