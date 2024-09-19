@@ -1,5 +1,5 @@
 <h1>FastAPI Machine Learning Project</h1>
-This is  guide you through the process of deploying a machine learning model using FastAPI and heroku, a free-tier platform. With a passion for AI-driven applications, this tutorial will cover the complete journey - from preparing the machine learning model ,setting up the FastAPI application, and deploying it on heroku, to automating the deployment process with GitHub Actions.<br>
+This is  guide you through the process of deploying a machine learning model using FastAPI and heroku, a free-tier platform. With a passion for AI-driven applications, this tutorial will cover the complete journey - from preparing the machine learning model ,setting up the FastAPI application, and deploying it on heroku, to automating the deployment process with GitHub Actions.<br><br><br>
 
 1.train_model.py- this file make the "iris_model.pkl" file,Load the Iris dataset from sklearn.datasets, Split the data into training and test sets and Train a RandomForestClassifier<br>
 2.main.py       - this file is fastapi application code.(main sourse code)<br>
