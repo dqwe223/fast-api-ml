@@ -1,1 +1,1 @@
-a
+This is  guide you through the process of deploying a machine learning model using FastAPI and heroku, a free-tier platform. With a passion for AI-driven applications, this tutorial will cover the complete journey - from preparing the machine learning model ,setting up the FastAPI application, and deploying it on heroku, to automating the deployment process with GitHub Actions.
